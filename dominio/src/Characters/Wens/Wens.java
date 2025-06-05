@@ -1,4 +1,4 @@
-package Personajes.Wens;
+package Characters.Wens;
 
 import iobjects.Character;
 

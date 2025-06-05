@@ -1,5 +1,5 @@
 
-package Personajes.Wens.Movimientos;
+package Characters.Wens.Movimientos;
 
 import iobjects.Movement;
 
